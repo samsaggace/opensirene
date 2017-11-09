@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "swagger.yaml",
+    "name": "Opensirene API",
+    "repo": "samsaggace/opensirene",
+    "splitSpec": false,
+    "samples": false,
+    "installSwaggerUI": false
+  }
+}
