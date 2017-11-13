@@ -1,7 +1,9 @@
-# opensirene [![Build Status](https://travis-ci.org/jclebreton/opensirene.svg?branch=v2)](https://travis-ci.org/jclebreton/opensirene) [![codecov](https://codecov.io/gh/jclebreton/opensirene/branch/master/graph/badge.svg)](https://codecov.io/gh/jclebreton/opensirene) [<img src=http://online.swagger.io/validator?url=https://raw.githubusercontent.com/jclebreton/opensirene/master/swagger.yaml>](http://editor.swagger.io/#/?import=https://raw.githubusercontent.com/jclebreton/opensirene/master/swagger.yaml)
+# opensirene
+[![Build Status](https://travis-ci.org/jclebreton/opensirene.svg?branch=v2)](https://travis-ci.org/jclebreton/opensirene) 
+[![codecov](https://codecov.io/gh/jclebreton/opensirene/branch/master/graph/badge.svg)](https://codecov.io/gh/jclebreton/opensirene)
+[![Swagger Status](http://online.swagger.io/validator?url=https://raw.githubusercontent.com/jclebreton/opensirene/master/swagger.yaml)](http://editor.swagger.io/#/?import=https://raw.githubusercontent.com/jclebreton/opensirene/master/swagger.yaml)
 
 ## Getting Started
-
 ### Build
 ```
 $ dep ensure
